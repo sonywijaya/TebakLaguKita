@@ -18,9 +18,9 @@ Tebak Lagu Kita is a song guessing game which developed using Python programming
 * [Pygame](http://www.pygame.org/lofi.html)
 
 ## How-to use this code
-* see [INSTRUCTIONS](https://github.com/username/sw-name/blob/master/INSTRUCTIONS.md) file
+* see [INSTRUCTIONS](https://github.com/sonywijaya/TebakLaguKita/blob/master/INSTRUCTIONS.md) file
 
 ## Contact
 #### Developer
 * e-mail: suryawijaya.sony@gmail.com
-* LinkedIn: https://www.linkedin.com/in/sonnysurya/
+* [LinkedIn](https://www.linkedin.com/in/sonnysurya/)
