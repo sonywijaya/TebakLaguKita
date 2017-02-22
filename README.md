@@ -7,6 +7,9 @@ Tebak Lagu Kita is a song guessing game which developed using Python programming
 #### Demo video
 [Video Tebak Lagu Kita](https://youtu.be/vbp_ulcU0Ak)
 
+#### Program Diagram
+[Tebak Lagu Kita Algorithm Diagram](https://raw.githubusercontent.com/sonywijaya/TebakLaguKita/master/diagram.png)
+
 ## Contributors
 ### Artwork
 * [Freepik](http://www.freepik.com/)
