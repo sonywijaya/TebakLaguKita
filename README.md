@@ -26,4 +26,4 @@ Tebak Lagu Kita is a song guessing game which developed using Python programming
 ## Contact
 #### Developer
 * e-mail: suryawijaya.sony@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/sonnysurya/)
+* [LinkedIn](https://www.linkedin.com/in/sonywijaya/)
